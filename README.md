@@ -19,7 +19,4 @@ Final projects for the different modules done in the Data Analyst course from Tr
 ### MODULE 3:
 11 | Automation | Tableau Dashboard<br>
 12 | Forecast & Prediction | Churn probabilities on Gym customers<br>
-13 | Final Project
-* Part I - A/B test Marketing campaing
-* Part II - SQL Books
-* Part III - Final project Proudct Range
+
